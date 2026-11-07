@@ -172,4 +172,3 @@ dev.db
 # Prisma generated client (auto-generated at build time)
 
 app/generated/
-config.bat
